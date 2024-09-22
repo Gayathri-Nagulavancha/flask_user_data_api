@@ -5,6 +5,7 @@ STEP 2 : Create a .env file manually :
 Add the following configuration variables to your .env file:
 SECRET_KEY=supersecretkey
 MONGO_URI=mongodb+srv://your_username:your_password@cluster0.mongodb.net/flask_db?retryWrites=true&w=majority&appName=Cluster0
+
 AUTH_TOKEN=<your_auth_token_here>  
 SESSION_TOKEN=<your_session_token_here>   
 
