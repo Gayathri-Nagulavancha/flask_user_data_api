@@ -9,4 +9,5 @@ AUTH_TOKEN=<your_auth_token_here>
 SESSION_TOKEN=<your_session_token_here>   
 
 STEP 3 : Install dependencies: pip install -r requirements.txt
+
 STEP 4 : Run the application: python server.py
